@@ -1,0 +1,10 @@
+pl\example\bookstore\services\GetAllBooksRequestHandler.class
+pl\example\bookstore\services\Factory.class
+pl\example\bookstore\model\Book.class
+pl\example\bookstore\model\BookResponse.class
+pl\example\bookstore\services\GetBookByIdRequestHandler.class
+pl\example\bookstore\services\DeleteBookRequestHandler.class
+pl\example\bookstore\Handler.class
+pl\example\bookstore\model\AwsRequestHandler.class
+pl\example\bookstore\model\BookRequest.class
+pl\example\bookstore\services\PostBookRequestHandler.class
